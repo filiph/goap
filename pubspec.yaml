@@ -1,0 +1,5 @@
+name: goap
+version: 0.0.1
+description: Goal Oriented Action Planning library.
+dev_dependencies:
+  unittest: any
